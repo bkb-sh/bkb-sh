@@ -1,11 +1,10 @@
 ---
-
 title: "Why Payment Systems Need Idempotency"
 description: "A beginner-friendly architecture note on preventing duplicate payment processing using idempotency keys."
-pubDatetime: 2026-06-10
+publishDate: 2026-06-10
 tags: ["payments", "backend", "architecture", "spring-boot"]
 draft: false
-------------
+---
 
 Payment systems fail in boring but expensive ways.
 
